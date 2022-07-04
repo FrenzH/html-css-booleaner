@@ -1,0 +1,63 @@
+
+* {
+    margin:0px;
+}
+
+
+
+
+
+
+
+
+#header-pattern {
+    height: 170px;
+
+    background-size: auto;
+    background-color: #5FB3CE;
+    background-image: url(../img/pattern.png);
+    
+}
+
+#header-logo {
+
+    height: 120px;
+    width: 190px;
+    padding-top: 70px;
+    padding-left: 20px;
+
+}
+#header-title {
+    font-size: 45px;
+    margin:10px;
+}
+#headerspan1 {
+    color: gray;
+    font-size: large;
+    margin: 10px;
+}
+
+
+#headerspan3{
+    margin: 10px;
+    font-size: small;
+} 
+#link{
+    text-decoration: none;
+    font-weight: 700;
+    color: lightseagreen;
+}
+#images-section{
+    padding-left: 10px;
+}
+#TimImages1{
+    width: 700px;
+    height: 545px;
+}
+#TimImages2{
+    width: 700px;
+}
+.images-decription{
+    font-size: small;
+    margin-left: 10px;
+}
