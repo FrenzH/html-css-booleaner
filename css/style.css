@@ -80,6 +80,8 @@ table{
     width:100%;
     padding-left: 10px;
     padding-top: 20px;
+    column-rule-style: hidden;
+    column-rule-width: 0px;
 }
 #tr1 {
     background-color: #21abcd;
