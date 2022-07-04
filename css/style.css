@@ -75,3 +75,22 @@ p{
     
     font-size: large;
 }
+
+table{
+    width:100%;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+#tr1 {
+    background-color: #21abcd;
+    color: white;
+}
+#tr2 {
+    background-color: #bcd4e6;
+}
+#tr4 {
+    background-color: #bcd4e6;
+}
+#th3-1 {
+    text-align: left;
+}
